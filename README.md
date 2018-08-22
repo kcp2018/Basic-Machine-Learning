@@ -5,6 +5,8 @@ is to provide a basic understanding of the agorithms and their underlying struct
 
 And now all of the material is copy from![zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics)
 
+The different is I redo these repository  in `Windows10` environment.
+
 * Linear Regression
 * Logistic Regression
 * Perception
